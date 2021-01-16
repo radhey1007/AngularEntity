@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "myEntityapp"
+  "defaultProject": "myEntityapp",
+  "cli": {
+    "analytics": "7b99b9b4-29f0-4704-a0e4-a28818363b3c"
+  }
 }

@@ -1,0 +1,44 @@
+{
+  "skills": [
+      {
+        "type":"It",
+        "skill":[
+            {
+                "id":1,
+                "name":"iOS"
+
+            },
+            {
+                "id":2,
+                "name":"Java"
+
+            }
+        ]
+    },
+    {
+        "type":"Industry Skill",
+        "skill":[
+            {
+                "id":1,
+                "name":"Management"
+
+            },
+            {
+                "id":2,
+                "name":"Leadership"
+
+            }
+        ]
+    }
+],
+"reference":[
+    {
+        "frameworkAgreement": {
+            "hasFrameworkAgreement":"description like succees ...",
+            "isAlready":true,
+            "isClient":true,
+            "currentActiveAssignment":true
+        }
+    }
+]
+}
